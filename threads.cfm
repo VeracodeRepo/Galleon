@@ -117,6 +117,3 @@
 </cfmodule>
 
 <cfsetting enablecfoutputonly=false>
-
-
-
