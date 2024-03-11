@@ -1,4 +1,4 @@
-<cfsetting enablecfoutputonly=true>
+<cfsetting enablecfoutputonly=true> 
 
 <!---
 	Name         : threads.cfm
@@ -116,4 +116,4 @@
 	
 </cfmodule>
 
-<cfsetting enablecfoutputonly=false> 
+<cfsetting enablecfoutputonly=false>
