@@ -1,4 +1,4 @@
-<cfsetting enablecfoutputonly=true>
+<cfsetting enablecfoutputonly=true> 
 
 <!---
 	Name         : threads.cfm
